@@ -99,3 +99,5 @@ Explore dashboard using filters (Site, Region, Date)
 Tausif Raza
 Aspiring Data Analyst | MIS Reporting | Power BI | Excel
 
+![MIS Dashboard](MIS%20REPORT.png)
+
